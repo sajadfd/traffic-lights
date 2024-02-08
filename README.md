@@ -28,8 +28,8 @@
 
 
 ## to run this app
-composer i     
-npm install 
-npm run dev 
-php artisan migrate
-php artisan serve
+- composer i     
+- npm install 
+- npm run dev 
+- php artisan migrate
+- php artisan serve
